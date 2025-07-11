@@ -1,1 +1,2 @@
 signup page created with captcha verification & google auth
+Done bug fixes
